@@ -60,8 +60,8 @@ agentic-ai-lab/
 
 ```powershell
 # Clone the laboratory repository
-git clone https://github.com/microsoft/agentic-ai-lab-dotnet.git
-cd agentic-ai-lab
+git clone https://github.com/vinodpatil-ms/agentic-ai-lab-dotnet
+cd agentic-ai-lab-dotnet
 
 # Verify Python version
 dotnet --version  # Should be 10.0.0 or higher
